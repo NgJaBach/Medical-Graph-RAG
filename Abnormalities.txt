@@ -1,0 +1,54 @@
+---------
+Abnormality Detected!
+Chunk ID: NwvFWP9fcPC2QEnjTXmPnN
+Chunk Name: Respiratory Issues in Elderly Transplant Patients
+Chunk Summary: This chunk contains information about medical cases involving sudden respiratory issues in elderly transplant patients, and include details about symptoms and potential triggers.
+
+Chunk ID: 3GmTugm24HCynLfWvq5m8e
+Chunk Name: Chronic Health Conditions
+Chunk Summary: This chunk contains information about common chronic health conditions and their management.
+
+Chunk ID: jwDQzEHdn4wUcBzzzVT3wk
+Chunk Name: Medical Assessments
+Chunk Summary: This chunk contains information about a patient's vital signs and physical examination findings.
+
+Chunk ID: 2sGNDF9GNjzg3oenbqnXj6
+Chunk Name: Health and Physical Examination
+Chunk Summary: This chunk contains information about the physical examination of skin condition and overall appearance.
+
+Chunk ID: J72729LSUyHSjyMnGWj6JG
+Chunk Name: Physical Examination: Head, Neck & Sensory
+Chunk Summary: This chunk contains information about normal physical examination findings related to the head, neck, and sensory responses.
+
+Chunk ID: d47LMPVThnEDL43Ug2ZHyu
+Chunk Name: Lung Sounds and Respiratory Exam
+Chunk Summary: This chunk contains information about respiratory examination findings related to lung sounds.
+
+Chunk ID: ePCqa8XhCEMwxUVuunZCNP
+Chunk Name: Cardiac Examination Findings
+Chunk Summary: This chunk contains information about cardiac examination findings related to heart rhythm and murmurs.
+
+Chunk ID: LZFbV5EK9cD3KJ2KR39GEV
+Chunk Name: Vascular Physical Exam Findings
+Chunk Summary: This chunk contains information about physical examination findings related to vascular health.
+
+Chunk ID: YUFPaLtHabEsJqufECM9aN
+Chunk Name: Health Conditions
+Chunk Summary: This chunk contains information about medical conditions related to obesity, circulation, and venous health.
+
+Chunk ID: oRremawLN4nyaxw2kGECdr
+Chunk Name: Blood Chemistry and Lab Tests
+Chunk Summary: This chunk contains information about laboratory test results related to blood chemistry and electrolyte levels.
+
+Chunk ID: nUEhMdYtSjHusPrRsbmEXf
+Chunk Name: Medical Testing
+Chunk Summary: This chunk contains information about blood clotting tests and coagulation parameters.
+
+Chunk ID: frp3ksAo3NJQqQVCvsk2F6
+Chunk Name: Health Indicators
+Chunk Summary: This chunk contains information about blood health indicators, including white blood cell counts and anemia.
+
+
+
+Chunk got: k7HRjLxddUJLYtChwqPTqf
+

@@ -1,0 +1,52 @@
+
+You have 9 chunks
+
+Chunk #0
+Chunk ID: 8byQKfvcMeeVsDKDzBRzjs
+Summary: This chunk contains information about medical follow-up procedures and timing for a patient's head imaging.
+Propositions:
+    -The patient is a 61-year-old male.
+    -Follow-up head CT scans were recommended approximately every 6-8 hours and definitely within 24 hours.
+Chunk #1
+Chunk ID: SFSgu5xaH7LPQR3uEeWKLc
+Summary: This chunk contains information about patient transfers between medical facilities.
+Propositions:
+    -He was transferred for further management to a different medical facility.
+Chunk #2
+Chunk ID: 2UVP4uGM4S5oYM4EhLP9dr
+Summary: This chunk contains information about patient health status and recovery progress.
+Propositions:
+    -Physical examination showed a temperature of 97.1°F on arrival.
+    -Approximately 11 days after admission, the patient was waking, arousable, and off sedation.
+Chunk #3
+Chunk ID: Bh8rKeucVPmqMnEELJWqrz
+Summary: This chunk contains information about various head injuries and their imaging findings.
+Propositions:
+    -The examination of the head, ears, nose, and throat revealed a depressed right temporal skull fracture.
+    -Repeat CT scan of the head showed a nondepressed right parietal skull fracture.
+    -The CT scan revealed a left frontotemporal subarachnoid bleed.
+Chunk #4
+Chunk ID: bDkaV5acaa2jvjX9Ys3MiU
+Summary: This chunk contains information about laboratory data related to blood cell counts.
+Propositions:
+    -Laboratory data obtained on presentation included a white blood cell count of 16.1.
+Chunk #5
+Chunk ID: RWbmJUJibvQtmMsyeyDwq6
+Summary: This chunk contains information about medical procedures and patient care in intensive care settings.
+Propositions:
+    -The patient was kept sedated in the intensive care unit.
+Chunk #6
+Chunk ID: 26gmVbxwkZZs7UZooSX8v6
+Summary: This chunk contains information about patient recovery and health progress over time.
+Propositions:
+    -Over several days, the patient continued to improve.
+Chunk #7
+Chunk ID: SUnyqRSiSXHkgWXbCHEGQm
+Summary: This chunk contains information about the ability to intentionally control body movements.
+Propositions:
+    -He was able to purposefully move his extremities.
+Chunk #8
+Chunk ID: SEWKxWQpR6s4tGnRXMWa8y
+Summary: This chunk contains information about a person's responses to stimuli and their early communication behaviors.
+Propositions:
+    -He opened his eyes to stimuli and started mouthing words.
