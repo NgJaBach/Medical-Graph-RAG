@@ -1,52 +1,23 @@
 
-You have 9 chunks
+You have 1 chunks
 
 Chunk #0
-Chunk ID: 8byQKfvcMeeVsDKDzBRzjs
-Summary: This chunk contains information about medical follow-up procedures and timing for a patient's head imaging.
+Chunk ID: CfKBiKiWGFSDWkmPq2x4Dm
+Summary: This chunk contains information about an elderly patient's medical history injuries and vital signs related to a fall.
 Propositions:
-    -The patient is a 61-year-old male.
-    -Follow-up head CT scans were recommended approximately every 6-8 hours and definitely within 24 hours.
-Chunk #1
-Chunk ID: SFSgu5xaH7LPQR3uEeWKLc
-Summary: This chunk contains information about patient transfers between medical facilities.
-Propositions:
-    -He was transferred for further management to a different medical facility.
-Chunk #2
-Chunk ID: 2UVP4uGM4S5oYM4EhLP9dr
-Summary: This chunk contains information about patient health status and recovery progress.
-Propositions:
-    -Physical examination showed a temperature of 97.1°F on arrival.
-    -Approximately 11 days after admission, the patient was waking, arousable, and off sedation.
-Chunk #3
-Chunk ID: Bh8rKeucVPmqMnEELJWqrz
-Summary: This chunk contains information about various head injuries and their imaging findings.
-Propositions:
-    -The examination of the head, ears, nose, and throat revealed a depressed right temporal skull fracture.
-    -Repeat CT scan of the head showed a nondepressed right parietal skull fracture.
-    -The CT scan revealed a left frontotemporal subarachnoid bleed.
-Chunk #4
-Chunk ID: bDkaV5acaa2jvjX9Ys3MiU
-Summary: This chunk contains information about laboratory data related to blood cell counts.
-Propositions:
-    -Laboratory data obtained on presentation included a white blood cell count of 16.1.
-Chunk #5
-Chunk ID: RWbmJUJibvQtmMsyeyDwq6
-Summary: This chunk contains information about medical procedures and patient care in intensive care settings.
-Propositions:
-    -The patient was kept sedated in the intensive care unit.
-Chunk #6
-Chunk ID: 26gmVbxwkZZs7UZooSX8v6
-Summary: This chunk contains information about patient recovery and health progress over time.
-Propositions:
-    -Over several days, the patient continued to improve.
-Chunk #7
-Chunk ID: SUnyqRSiSXHkgWXbCHEGQm
-Summary: This chunk contains information about the ability to intentionally control body movements.
-Propositions:
-    -He was able to purposefully move his extremities.
-Chunk #8
-Chunk ID: SEWKxWQpR6s4tGnRXMWa8y
-Summary: This chunk contains information about a person's responses to stimuli and their early communication behaviors.
-Propositions:
-    -He opened his eyes to stimuli and started mouthing words.
+    -This is a 72-year-old female patient with a complex medical and surgical history.
+    -She presented following a fall suffered overnight, resulting in a right intertrochanteric femur fracture.
+    -Her past medical conditions include paroxysmal atrial fibrillation, hypertension, hyperlipidemia, type 2 diabetes mellitus, osteoarthritis, lumbar degenerative joint disease, and right foot drop.
+    -She has a pacemaker and a history of coronary artery disease, for which she underwent coronary artery bypass grafting.
+    -Her medications include Lipitor, amiodarone, metoprolol, glyburide, Accupril, NPH insulin, Coumadin, and Diovan.
+    -Her vital signs on admission were blood pressure 171/64 mmHg, pulse 70 beats per minute, respiratory rate 19 breaths per minute, and oxygen saturation 97% on room air.
+    -Physical examination revealed no signs of acute distress, with a normal cardiovascular and lung exam, but notable right leg shortening and external rotation, consistent with a femur fracture.
+    -Laboratory studies showed a white blood cell count of 9.4, hemoglobin 14.5 g/dL, hematocrit 43.5%, and normal electrolyte and renal function parameters.
+    -Imaging confirmed the diagnosis of a right intertrochanteric fracture with associated lesser trochanter fracture, and a CT of the head showed no intracranial hemorrhage.
+    -The patient was prepared for surgical intervention, undergoing open reduction and internal fixation of the femur, with intraoperative stability achieved and no complications.
+    -Postoperative management included transfer to the surgical intensive care unit, with cardiology consultation recommending fluid management adjustments, diuretics, and encouragement of incentive spirometry.
+    -On postoperative day two, her condition remained stable, with acceptable hematocrit levels, INR 1.4, and no new complaints or signs of infection or cardiopulmonary compromise.
+    -Her surgical wound was clean and intact, and neurovascular status of the extremity was preserved.
+    -Physical therapy was initiated, and plans included full weight-bearing on the right leg, continuation of anticoagulation therapy with Coumadin, and scheduled follow-up with orthopedic specialists.
+    -Discharge instructions emphasized mobility, wound care, medication adherence, and INR monitoring, with arrangements made for outpatient follow-up and home health services if needed.
+    -Overall, her condition improved, and she was considered stable for discharge to her residence or rehabilitation facility, with ongoing medical management for her chronic conditions.
