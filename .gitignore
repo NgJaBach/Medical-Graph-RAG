@@ -1,5 +1,8 @@
 patients
-books_medqa
+books_1
+books_2
 MedQA.jsonl
 MedMCQA.jsonl
 .venv
+faiss_index
+neo4j_pass.txt
