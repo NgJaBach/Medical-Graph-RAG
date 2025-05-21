@@ -1,0 +1,6 @@
+Processing second floor...
+Number of book(s): 18
+Randomly selecting 18 book(s)...
+Processing 1th book(s): Pathology_Robbins.txt
+Adding propositions to chunks: 100%|██████████| 1016/1016 [32:00<00:00,  1.89s/proposition]
+Processing chunks:  50%|█████     | 509/1016 [5:30:48<5:29:30, 39.00s/chunk]

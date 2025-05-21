@@ -4,3 +4,5 @@ report_28872.txt
 report_12286.txt
 report_43488.txt
 report_43917.txt
+Anatomy_Gray.txt
+Pathology_Robbins.txt
