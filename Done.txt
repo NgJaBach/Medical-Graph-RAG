@@ -6,3 +6,15 @@ report_43488.txt
 report_43917.txt
 Anatomy_Gray.txt
 Pathology_Robbins.txt
+Biochemistry_Lippincott.txt
+Cell_Biology_Alberts.txt
+First_Aid_Step1.txt
+First_Aid_Step2.txt
+Pathology_Robbins.txt
+Gynecology_Novak.txt
+Histology_Ross.txt
+Immunology_Janeway.txt
+InternalMed_Harrison.txt
+Neurology_Adams.txt
+Histology_Ross.txt
+Obstentrics_Williams.txt
